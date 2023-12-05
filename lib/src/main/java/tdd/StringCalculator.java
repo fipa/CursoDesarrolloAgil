@@ -1,0 +1,5 @@
+package tdd;
+
+class StringCalculator {
+
+}
